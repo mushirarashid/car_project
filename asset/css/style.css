@@ -1129,37 +1129,11 @@ p {
   .container
   .right
   .one
-  .main_doth_2
-  .text_box {
-  transition: all linear 0.3s;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 999;
-}
-#hero_part
-  .carousel-item
-  .carousel-caption
-  .container
-  .right
-  .one
   .main_doth_2:hover
   .text_box {
   opacity: 1;
   visibility: inherit;
   cursor: pointer;
-}
-#hero_part
-  .carousel-item
-  .carousel-caption
-  .container
-  .right
-  .one
-  .main_doth_3
-  .text_box {
-  transition: all linear 0.3s;
-  opacity: 0;
-  visibility: hidden;
-  z-index: 999;
 }
 #hero_part
   .carousel-item
@@ -1173,18 +1147,6 @@ p {
   visibility: inherit;
   cursor: pointer;
   z-index: 999;
-}
-#hero_part
-  .carousel-item
-  .carousel-caption
-  .container
-  .right
-  .one
-  .main_doth_4
-  .text_box {
-  transition: all linear 0.3s;
-  opacity: 0;
-  visibility: hidden;
 }
 #hero_part
   .carousel-item
@@ -1246,6 +1208,10 @@ p {
   color: #000000;
   border: 1px solid rgba(218, 218, 218, 0.952);
   padding: 10px 10px;
+  transition: all linear 0.3s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 999;
 }
 #hero_part
   .carousel-item
@@ -1295,6 +1261,10 @@ p {
   border: 1px solid rgba(218, 218, 218, 0.952);
   color: #000000;
   padding: 10px 10px;
+  transition: all linear 0.3s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 999;
 }
 #hero_part
   .carousel-item
@@ -1344,6 +1314,9 @@ p {
   background: white;
   color: #000000;
   padding: 10px 10px;
+  transition: all linear 0.3s;
+  opacity: 0;
+  visibility: hidden;
 }
 #hero_part
   .carousel-item
